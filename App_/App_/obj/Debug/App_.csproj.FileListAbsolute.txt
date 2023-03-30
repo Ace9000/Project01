@@ -1,0 +1,11 @@
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\bin\Debug\App_.exe.config
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\bin\Debug\App_.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\bin\Debug\App_.pdb
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.Form1.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.Properties.Resources.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\App_\App_\obj\Debug\App_.pdb
